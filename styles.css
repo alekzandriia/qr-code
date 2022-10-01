@@ -1,0 +1,34 @@
+body {
+    background: #D5E1EF;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+.card-header {
+    color: #1C2A45;
+    padding:5px;
+    font-size:24px;
+    margin-left: 15px;
+    margin-right:15px;
+}
+
+.card-text {
+    color: #7b879d;
+    font-size: 18px;
+    padding:5px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+
+.card {
+    background: white;
+    width: 350px;
+    padding: 20px;
+    border-radius: 20px;
+    margin:auto;
+}
+
+#qr-code {
+    width:350px;
+    border-radius: 20px;
+}
